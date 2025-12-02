@@ -5,13 +5,7 @@ import pathlib
 
 @pytest.fixture
 def api_url():
-    return "https://jesonplaceholder.typicode.com/"
-
-
-
-
-
-
+    return "https://jsonplaceholder.typicode.com/"
 
 
 

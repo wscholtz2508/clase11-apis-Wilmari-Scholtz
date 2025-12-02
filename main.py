@@ -25,10 +25,6 @@
 
 """
 
-
-
-
-
 import requests
 
 URL_API = "https://jsonplaceholder.typicode.com/"
